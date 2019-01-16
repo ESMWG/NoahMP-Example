@@ -30,14 +30,14 @@ If you are using WSL, all your Windows files are automatically mounted onto `/mn
 
 Note: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
 
-## Download the NoahMP source code and compile the model
+## Download and compile the NoahMP source code
 
 Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
 
 Once the model successfully compiled, the excecutable file `noahmp.exe` is located in the `run` directory.
 
 
-## Run NoahMP
+## Run `noahmp.exe`
 
 Copy `noahmp.exe` to the `NoahMP-Training` directory.
 
