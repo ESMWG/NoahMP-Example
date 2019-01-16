@@ -4,11 +4,11 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 1. Open the "Settings" app and navigate to the "Update & Security" category.
 
-![wsl-settings](doc/images/wsl-settings.png )
+![wsl-settings](images/wsl-settings.png )
 
 2. Choose "For developers" from the left sidebar and switch to "Developer mode".
 
-![wsl-developer-options](doc/images/wsl-developer-options.png)
+![wsl-developer-options](images/wsl-developer-options.png)
 
 3. Reboot Windows.
 
@@ -16,18 +16,18 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 1. Type "windows features" in the Search Box and then press Enter key.
 
-![wsl-features-search](doc/images/wsl-features-search.png)
+![wsl-features-search](images/wsl-features-search.png)
 
 2. In the popped up window, click "Windows Subsystem for Linux".
 
-![wsl-features-enable](doc/images/wsl-features-enable.png)
+![wsl-features-enable](images/wsl-features-enable.png)
 
 3. Reboot Windows.
 
 ## Install Ubuntu
 1. Search "ubuntu" in Microsoft Store and click "ubuntu" to install it.
 
-![wsl-store-install](doc/images/wsl-store-install.png )
+![wsl-store-install](images/wsl-store-install.png )
 
 2. (Optional) If something went wrong, reset Microsoft Store and try it again.
 
@@ -35,7 +35,7 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 2.2. Type WSReset.exe, and click/tap on OK.
 
-![wsl-store-reset](doc/images/wsl-store-reset.png )
+![wsl-store-reset](images/wsl-store-reset.png )
 
 2.3. Open Microsoft Store again.
 
