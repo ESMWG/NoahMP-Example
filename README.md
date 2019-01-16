@@ -20,7 +20,7 @@ sudo apt install openmpi-bin libopenmpi-dev
 
 ## Download this repository to your disk
 
-This repository contains all the files needed for running a exemplary NoahMP simulation.
+This repository contains all the files needed for running an exemplary NoahMP simulation.
 
 You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) (`git clone https://github.com/esmwg/NoahMP-Training.git`).
 
