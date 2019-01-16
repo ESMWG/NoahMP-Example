@@ -29,7 +29,7 @@ Once the model successfully compiled, the excecutable file `noahmp.exe` is locat
 
 This repository contains all the files needed for running NoahMP.
 
-You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/).
+You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) [git clone https://github.com/esmwg/NoahMP-Training.git].
 
 Once downloaded, locate the `NoahMP-Training` directory in your WSL terminal or VirtualBox.
 
