@@ -45,4 +45,4 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 2. In the popped up command terminal, enter your username and password following the instructions.
 
-3. Access Windows filesystem via `/mnt`
+3. Type `cd /mnt`. All your Windows files can be accessed here.
