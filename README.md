@@ -24,9 +24,7 @@ This repository contains all the files needed for running a exemplary NoahMP sim
 
 You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) (`git clone https://github.com/esmwg/NoahMP-Training.git`).
 
-Once downloaded, locate the `NoahMP-Training` directory in your WSL terminal or VirtualBox.
-
-If you are using WSL, all your Windows files are automatically mounted onto `/mnt`.
+In the `NoahMP-Training/input` directory, unzip `input.zip`.
 
 Warning: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
 
@@ -43,8 +41,11 @@ Once the model successfully compiled, the excecutable file `noahmp.exe` is locat
 
 Copy `noahmp.exe` to the `NoahMP-Training` directory.
 
-In the `NoahMP-Trainig` directory, type the following command in your command terminal:
+Locate the `NoahMP-Training` directory in the command terminal. If you are using WSL, all the Windows files can be accessed via `/mnt`.
+
+In the `NoahMP-Trainig` directory, type the following command:
 ```
 ./noahmp.exe
 ```
+
 Hoo-ha!
