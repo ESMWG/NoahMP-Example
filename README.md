@@ -21,7 +21,7 @@ sudo apt install openmpi-bin libopenmpi-dev
 
 ## Downloading the NoahMP source code and compiling the model
 
-Following `README.md` in the NoahMP source code directory to compile the model.
+Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
 
 Once the model successfully compiled, the excecutable file `noahmp.exe` is located in the `run` directory.
 
