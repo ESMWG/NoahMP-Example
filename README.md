@@ -18,21 +18,24 @@ sudo apt install netcdf-bin libnetcdf-dev libnetcdff-dev
 sudo apt install openmpi-bin libopenmpi-dev
 ```
 
-## Downloading the NoahMP source code and compiling the model
-
-Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
-
-Once the model successfully compiled, the excecutable file `noahmp.exe` is located in the `run` directory.
-
 ## Download this repository to your disk
 
-This repository contains all the files needed for running NoahMP.
+This repository contains all the files needed for running a NoahMP exemplary case.
 
 You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) [git clone https://github.com/esmwg/NoahMP-Training.git].
 
 Once downloaded, locate the `NoahMP-Training` directory in your WSL terminal or VirtualBox.
 
 If you are using WSL, all your Windows files are automatically mounted on `/mnt/`.
+
+Note: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
+
+## Downloading the NoahMP source code and compiling the model
+
+Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
+
+Once the model successfully compiled, the excecutable file `noahmp.exe` is located in the `run` directory.
+
 
 ## Running NoahMP
 
