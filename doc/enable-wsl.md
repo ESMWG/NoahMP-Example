@@ -43,6 +43,6 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 1. Open the Start menu, locate "Ubuntu", and click.
 
-2. In the popped up window, follow the instructions, type your username and password.
+2. In the popped up command terminal, enter your username and password following the instructions.
 
 3. Access Windows filesystem via `/mnt`
