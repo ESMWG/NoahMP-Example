@@ -1,6 +1,8 @@
 input/*
 !input/input.zip
 output/*
+!output/.gitkeep
 restart/*
+!restart/.gitkeep
 noahmp.exe
 .vscode/*
