@@ -12,6 +12,12 @@ Following the instruction to enable Windows Subsystem for Linux (WSL).
 
 Note: Ubuntu is recommonded for this training material.
 
+Once the Linux environment is setted up, install the fortran compiler and NetCDF4 library:
+```
+sudo apt update && upgrade
+sudo apt install gcc gfortran netcdf-bin libnetcdf-dev libnetcdff-dev
+```
+
 ## Downloading the NoahMP source code and compiling the model
 
 Following `README.md` in the NoahMP source code directory to compile the model.
