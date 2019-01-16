@@ -12,7 +12,7 @@ Follow the instructions in [doc/enable-wsl.md](doc/enable-wsl.md) to enable Wind
 
 If you are using Ubuntu, type the following commands in a terminal to install the Fortran compiler, NetCDF4, and MPI:
 ```
-sudo apt update && upgrade
+sudo apt update && sudo apt upgrade
 sudo apt install gcc gfortran
 sudo apt install netcdf-bin libnetcdf-dev libnetcdff-dev
 sudo apt install openmpi-bin libopenmpi-dev
