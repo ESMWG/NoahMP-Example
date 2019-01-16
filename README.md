@@ -28,7 +28,7 @@ Once downloaded, locate the `NoahMP-Training` directory in your WSL terminal or 
 
 If you are using WSL, all your Windows files are automatically mounted onto `/mnt`.
 
-Note: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
+Warning: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
 
 ## Download and compile the NoahMP source code
 
