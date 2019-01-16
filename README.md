@@ -32,6 +32,8 @@ Warning: the example contained in this repository are used for training purpose 
 
 ## Download and compile the NoahMP source code
 
+Note: The source code will be distributed later and you can skip this section now.
+
 Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
 
 Once the model successfully compiled, the excecutable file `noahmp.exe` is located in the `run` directory.
