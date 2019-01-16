@@ -1,6 +1,6 @@
 &HRLDAS_NOAHMP
 
- CONST_FILE = 'domain_dongting.nc'
+ CONST_FILE = 'domain/dongting.nc'
  INDIR = 'input'
  OUTDIR = 'output'
  !MMF_RUNOFF_FILE = '/blah/WRF/wrfleafxyz_d01.nc'
