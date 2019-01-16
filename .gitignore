@@ -1,5 +1,5 @@
 input/
-input/input.zip
+!input/input.zip
 output/
 restart/
 noahmp.exe
