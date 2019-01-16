@@ -39,7 +39,7 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 2.3. Open Microsoft Store again.
 
-## Setting up Ubuntu
+## Set up Ubuntu
 
 1. Open the Start menu, locate "Ubuntu", and click.
 
