@@ -8,7 +8,7 @@ NoahMP runs in a Linux environment and requires the [NetCDF4](https://www.unidat
 
 If you are using Windows 10, you can either enable [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) or install a virtual machine using [Oracle VirtualBox](https://www.virtualbox.org).
 
-Following the instructions to enable Windows Subsystem for Linux (WSL). 
+Following the instructions in [doc/enable-wsl.md](doc/enable-wsl.md) to enable Windows Subsystem for Linux (WSL). 
 
 If you are using Ubuntu, type the following commands in the terminal to install the Fortran compiler, NetCDF4, and MPI:
 ```
