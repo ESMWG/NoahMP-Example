@@ -33,7 +33,7 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 2.1. Press the Win+R keys to open the Run dialog.
 
-2.2. Type WSReset.exe, and click/tap on OK.
+2.2. Type `wsreset.exe`, and click/tap on OK.
 
 ![wsl-store-reset](images/wsl-store-reset.png )
 
