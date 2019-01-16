@@ -12,7 +12,7 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 3. Reboot Windows.
 
-## Enable the WSL Windows Feature
+## Enable the WSL Feature
 
 1. Type "windows features" in the Search Box and then press Enter key.
 
