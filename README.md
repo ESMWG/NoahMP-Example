@@ -4,7 +4,7 @@ This material helps you compiling and runing the NoahMP land surface model.
 
 ## Setting up the Linux environment
 
-NoahMP runs in a Linux environment and requires the [NetCDF4](https://www.unidata.ucar.edu/software/netcdf/) and MPI libraries installed in your system.
+NoahMP runs in a Linux environment and requires the [NetCDF4](https://www.unidata.ucar.edu/software/netcdf/) and [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) libraries installed in your system.
 
 If you are using Windows 10, you can either enable [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) or install a virtual machine using [Oracle VirtualBox](https://www.virtualbox.org).
 
