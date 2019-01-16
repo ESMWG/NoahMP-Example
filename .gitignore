@@ -1,3 +1,5 @@
-/input/input.20*
+input/input.20*
+output/
+restart/
 noahmp.exe
 .vscode/

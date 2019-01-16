@@ -3,6 +3,7 @@
  CONST_FILE = 'domain/dongting.nc'
  INDIR = 'input'
  OUTDIR = 'output'
+ RESDIR = 'restart'
  !MMF_RUNOFF_FILE = '/blah/WRF/wrfleafxyz_d01.nc'
 
  START_YEAR  = 2017
