@@ -1,6 +1,6 @@
 # NoahMP-Training
 
-This material helps you compiling and runing the NoahMP land surface model.
+This material helps you compile and run the NoahMP land surface model.
 
 ## Set up the Linux environment
 
