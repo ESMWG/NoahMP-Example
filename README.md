@@ -26,7 +26,7 @@ You can download the files via the link [https://github.com/esmwg/NoahMP-Trainin
 
 In the `NoahMP-Training/input` directory, unzip `input.zip`.
 
-Warning: the example contained in this repository are used for training purpose only, you cannot user this example for publications and commercial purposes.
+Warning: the example contained in this repository are used for training purpose only, you cannot use this example for publications and commercial purposes.
 
 ## Download and compile the NoahMP source code
 
