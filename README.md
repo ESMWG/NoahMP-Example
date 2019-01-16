@@ -41,7 +41,7 @@ Once the model successfully compiled, the excecutable file `noahmp.exe` is locat
 
 Copy `noahmp.exe` to the `NoahMP-Training` directory.
 
-Locate the `NoahMP-Training` directory in the command terminal. If you are using WSL, all the Windows files can be accessed via `/mnt`.
+Locate the `NoahMP-Training` directory in a command terminal. If you are using WSL, all the Windows files can be accessed via `/mnt`.
 
 In the `NoahMP-Trainig` directory, type the following command:
 ```
