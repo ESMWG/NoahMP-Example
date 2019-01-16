@@ -1,6 +1,6 @@
-input/
+input/*
 !input/input.zip
-output/
-restart/
+output/*
+restart/*
 noahmp.exe
-.vscode/
+.vscode/*
