@@ -39,4 +39,10 @@ Once the model successfully compiled, the excecutable file `noahmp.exe` is locat
 
 ## Running NoahMP
 
-Copy `noahmp.exe` to the `NoahMP-Training` directory and run the model by typing `./noahmp.exe` in your command terminal.
+Copy `noahmp.exe` to the `NoahMP-Training` directory.
+
+In the `NoahMP-Trainig` directory, type the following command in your command terminal:
+```
+./noahmp.exe
+```
+Hoo-ha!
