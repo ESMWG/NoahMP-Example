@@ -10,7 +10,7 @@ If you are using Windows 10, you can either enable [Windows Subsystem for Linux 
 
 Following the instructions to enable Windows Subsystem for Linux (WSL). 
 
-In your Linux environment (Ubuntu is recommanded for this training material), type the following commands in the terminal to install the Fortran compiler, NetCDF4, and MPI:
+If you are using Ubuntu, type the following commands in the terminal to install the Fortran compiler, NetCDF4, and MPI:
 ```
 sudo apt update && upgrade
 sudo apt install gcc gfortran
