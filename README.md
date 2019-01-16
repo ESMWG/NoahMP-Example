@@ -20,13 +20,13 @@ sudo apt install openmpi-bin libopenmpi-dev
 
 ## Download this repository to your disk
 
-This repository contains all the files needed for running a NoahMP exemplary case.
+This repository contains all the files needed for running a exemplary NoahMP simulation.
 
 You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) [git clone https://github.com/esmwg/NoahMP-Training.git].
 
 Once downloaded, locate the `NoahMP-Training` directory in your WSL terminal or VirtualBox.
 
-If you are using WSL, all your Windows files are automatically mounted on `/mnt/`.
+If you are using WSL, all your Windows files are automatically mounted onto `/mnt/`.
 
 Note: the example contained in this repository are used for training purpose only, you cannot publish papers using this example.
 
