@@ -24,7 +24,7 @@ This repository contains all the files needed for running an exemplary NoahMP si
 
 You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) (`git clone https://github.com/esmwg/NoahMP-Training.git`).
 
-Once downloaded, unzip `input.zip` in the `NoahMP-Training/input` directory.
+Once downloaded, unzip `NoahMP-Training/input/input.zip` into the `NoahMP-Training/input` directory.
 
 Warning: the example contained in this repository are used for training purpose only, you cannot use this example for publications and commercial purposes.
 
