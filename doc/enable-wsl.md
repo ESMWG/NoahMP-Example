@@ -29,7 +29,7 @@ This Wiki helps you enable Windows Subsystem for Linux (WSL) in Windows 10.
 
 ![wsl-store-install](images/wsl-store-install.png )
 
-2. (Optional) If something went wrong, reset Microsoft Store and try it again.
+2. (Optional) If something went wrong with Microsoft Store, reset it and try again.
 
 2.1. Press the Win+R keys to open the Run dialog.
 
