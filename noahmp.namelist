@@ -14,12 +14,12 @@
  START_SEC   = 0
 
  RESTART_FILE = "restart.20170501T000000"
- INIT_FILE = 'restart.20170501T000000'
+ INIT_FILE = 'init.20170501T000000'
  from_restart = .true.
 
- KDAY = 30
+ KDAY = 1
 
- DYNAMIC_VEG_OPTION                = 4
+ DYNAMIC_VEG_OPTION                = 3
  CANOPY_STOMATAL_RESISTANCE_OPTION = 1
  BTR_OPTION                        = 1
  RUNOFF_OPTION                     = 1
