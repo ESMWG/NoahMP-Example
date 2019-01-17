@@ -30,7 +30,7 @@ Warning: the example contained in this repository are used for training purpose 
 
 ## Download and compile the NoahMP source code
 
-Note: The source code will be distributed later and you can skip this section now.
+The source code can be found in [https://github.com/esmwg/NoahMP].
 
 Read `README.md` in the NoahMP source code directory and compile the model following the instructions.
 
