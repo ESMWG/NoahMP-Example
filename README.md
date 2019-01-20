@@ -1,4 +1,4 @@
-# NoahMP-Training
+# NoahMP-Example
 
 This material helps you compile and run the NoahMP land surface model.
 
@@ -22,9 +22,9 @@ sudo apt install openmpi-bin libopenmpi-dev
 
 This repository contains all the files needed for running an exemplary NoahMP simulation.
 
-You can download the files via the link [https://github.com/esmwg/NoahMP-Training/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) (`git clone https://github.com/esmwg/NoahMP-Training.git`).
+You can download the files via the link [https://github.com/esmwg/NoahMP-Example/archive/master.zip] or clone this repository using [Git](https://git-scm.com/) (`git clone https://github.com/esmwg/NoahMP-Example.git`).
 
-Once downloaded, unzip `NoahMP-Training/input/input.zip` into the `NoahMP-Training/input` directory.
+Once downloaded, unzip `NoahMP-Example/input/input.zip` into the `NoahMP-Example/input` directory.
 
 Warning: the example contained in this repository are used for training purpose only, you cannot use this example for publications and commercial purposes.
 
@@ -39,9 +39,9 @@ Once the model successfully compiled, the excecutable file `noahmp.exe` is locat
 
 ## Run `noahmp.exe`
 
-Copy `noahmp.exe` to the `NoahMP-Training` directory.
+Copy `noahmp.exe` to the `NoahMP-Example` directory.
 
-Locate the `NoahMP-Training` directory in a command terminal. If you are using WSL, all the Windows files can be accessed via `/mnt`.
+Locate the `NoahMP-Example` directory in a command terminal. If you are using WSL, all the Windows files can be accessed via `/mnt`.
 
 In the `NoahMP-Trainig` directory, type the following command:
 ```
